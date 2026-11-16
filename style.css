@@ -192,6 +192,8 @@ button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  position:relative;
+  z-index: 50;
 }
 .nav-btn.home {
   padding: 6px 12px;
